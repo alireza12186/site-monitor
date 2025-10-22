@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>سیستم مانیتورینگ سایت‌ها</title>
+<style>
+body { font-family: sans-serif; direction: rtl; background: #f5f5f5; }
+h1 { text-align: center; }
+#statusBtn {
+  display: block; width: 100px; margin: 20px auto;
+  padding: 10px; border-radius: 8px; color: white; font-weight: bold; text-align: center;
+}
+.site {
+  background: white; margin: 10px auto; padding: 10px;
+  border-radius: 6px; width: 320px;
+}
+.ok { color: green; }
+.bad { color: red; }
+</style>
+</head>
+<body>
+<h1>وضعیت مانیتورینگ سایت‌ها</h1>
+<div id="statusBtn">در حال بارگذاری...</div>
+<div id="sites"></div>
+
+<script>
+fetch('status.json').then(r => r.json()).then(data => {
+  const container = document.getElementById('sites');
+  let hasError = false;
+
+  data.forEach(site => {
+    const div = document.createElement('div');
+    div.className = 'site';
+    div.innerHTML = `
+      <strong>${site.url}</strong><br>
+      وضعیت: <span class="${site.ok ? 'ok' : 'bad'}">${site.ok ? 'سالم' : 'خطا (' + site.status + ')'}</span>
+    `;
+    container.appendChild(div);
+    if (!site.ok) hasError = true;
+  });
+
+  const btn = document.getElementById('statusBtn');
+  btn.style.background = hasError ? 'red' : 'green';
+  btn.textContent = hasError ? 'خطا' : 'سالم';
+});
+</script>
+</body>
+</html>
