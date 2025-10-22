@@ -3,749 +3,750 @@
     "url": "https://soormaan.jalalheidarinejad.net/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 627
+    "time": 305
   },
   {
     "url": "https://jalalheidarinejad.net/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 738
+    "time": 261
   },
   {
     "url": "https://fridaplasticworld.jalalheidarinejad.net/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 759
+    "time": 269
   },
   {
     "url": "https://jalalheidarinejad.net/",
     "status": 200,
     "ok": true,
-    "time": 164
+    "time": 69
   },
   {
     "url": "https://soormaan.jalalheidarinejad.net/",
     "status": 200,
     "ok": true,
-    "time": 112
+    "time": 67
   },
   {
     "url": "https://fridaplasticworld.jalalheidarinejad.net/",
     "status": 200,
     "ok": true,
-    "time": 170
+    "time": 66
   },
   {
     "url": "https://mgreenenergy.ir/",
     "status": 200,
     "ok": true,
-    "time": 1660
+    "time": 1174
   },
   {
     "url": "https://daneshschools.com/archive",
     "status": 200,
     "ok": true,
-    "time": 2556
+    "time": 2101
   },
   {
     "url": "https://ehsan.daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 1428
+    "time": 1370
   },
   {
     "url": "https://ewalkfree.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 13164
+    "time": 7272
   },
   {
     "url": "https://golfoam.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5831
+    "time": 4887
   },
   {
     "url": "https://medimage.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 7319
+    "time": 6466
   },
   {
     "url": "https://mgreenenergy.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4922
+    "time": 4044
   },
   {
     "url": "https://daneshschools.com/archive/wp-admin",
-    "status": 503,
-    "ok": false,
-    "time": 3176
+    "status": 200,
+    "ok": true,
+    "time": 7412
   },
   {
     "url": "https://ibulletin.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4708
+    "time": 4309
   },
   {
     "url": "https://ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 8022
+    "time": 7555
   },
   {
     "url": "https://inverterdelta.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 6176
+    "time": 5672
   },
   {
     "url": "https://fkhosravi.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4512
+    "time": 3574
   },
   {
     "url": "https://daneshyar.daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 9878
+    "time": 14250
   },
   {
     "url": "https://daneshschools.com/dabestan/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5810
+    "time": 7316
   },
   {
     "url": "https://navidesalehin.org/d/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5299
+    "time": 4238
   },
   {
     "url": "https://navidesalehin.org/d1/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4365
+    "time": 3725
   },
   {
     "url": "https://radiopaedia.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4803
+    "time": 4141
   },
   {
     "url": "https://saamcollection.com/wp-admin",
     "status": 403,
     "ok": false,
-    "time": 2429
+    "time": 1679
   },
   {
     "url": "https://seminar.daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 7363
+    "time": 5870
   },
   {
     "url": "https://shenasehmag.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5555
+    "time": 4424
   },
   {
     "url": "https://atfmag.info/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 15047
+    "time": 14982
   },
   {
     "url": "https://daneshschools.com/gholhak/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 8973
+    "time": 10291
   },
   {
     "url": "https://daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5013
+    "time": 4310
   },
   {
     "url": "https://moshaver.daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 6242
+    "time": 4704
   },
   {
     "url": "https://navidesalehin.org/m/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5510
+    "time": 4205
   },
   {
     "url": "https://hiradtec.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 6468
+    "time": 3542
   },
   {
     "url": "https://hiradmed.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 6574
+    "time": 5307
   },
   {
     "url": "https://payment.daneshschools.com/wp-admin",
-    "status": 503,
-    "ok": false,
-    "time": 3006
+    "status": 200,
+    "ok": true,
+    "time": 4892
   },
   {
     "url": "https://registration.daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5305
+    "time": 7540
   },
   {
     "url": "https://azarbaijan.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1196
+    "time": 983
   },
   {
     "url": "https://mazandaran.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1168
+    "time": 1193
   },
   {
     "url": "https://radioogle.ir/blog",
     "status": 200,
     "ok": true,
-    "time": 2949
+    "time": 771
   },
   {
     "url": "https://fkhosravi.com/",
     "status": 200,
     "ok": true,
-    "time": 1344
+    "time": 758
   },
   {
     "url": "https://tavanbp.com/",
     "status": 200,
     "ok": true,
-    "time": 1183
+    "time": 903
   },
   {
     "url": "https://dmelal.ir/",
     "status": 200,
     "ok": true,
-    "time": 3051
+    "time": 2668
   },
   {
     "url": "https://daneshyar.daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 702
+    "time": 829
   },
   {
     "url": "https://daneshschools.com/dabestan",
     "status": 200,
     "ok": true,
-    "time": 1759
+    "time": 1071
   },
   {
     "url": "https://navidesalehin.org/d",
     "status": 200,
     "ok": true,
-    "time": 3043
+    "time": 2417
   },
   {
     "url": "https://daneshschools.com/highschool",
     "status": 200,
     "ok": true,
-    "time": 1150
+    "time": 716
   },
   {
     "url": "https://navidesalehin.org/d1",
     "status": 200,
     "ok": true,
-    "time": 2501
+    "time": 2119
   },
   {
     "url": "https://navidesalehin.org/d2",
     "status": 200,
     "ok": true,
-    "time": 1161
+    "time": 717
   },
   {
     "url": "https://radiopaedia.ir/",
     "status": 200,
     "ok": true,
-    "time": 878
+    "time": 933
   },
   {
     "url": "https://seminar.daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 1166
+    "time": 1019
   },
   {
     "url": "https://shenasehmag.ir/",
     "status": 200,
     "ok": true,
-    "time": 1330
+    "time": 753
   },
   {
     "url": "https://daneshschools.com/gholhak",
     "status": 200,
     "ok": true,
-    "time": 1741
+    "time": 1074
   },
   {
     "url": "https://daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 864
+    "time": 862
   },
   {
     "url": "https://payment.daneshschools.com/",
-    "status": 503,
-    "ok": false,
-    "time": 1276
+    "status": 200,
+    "ok": true,
+    "time": 2375
   },
   {
     "url": "https://caspianchemistry.com/",
     "status": 200,
     "ok": true,
-    "time": 7916
+    "time": 3480
   },
   {
     "url": "https://congress.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1281
+    "time": 799
   },
   {
     "url": "https://greenpetrol.ir/",
     "status": 200,
     "ok": true,
-    "time": 1947
+    "time": 2896
   },
   {
     "url": "https://365web.ir/",
     "status": 200,
     "ok": true,
-    "time": 935
+    "time": 836
   },
   {
     "url": "https://gaspetrosafa.com/",
     "status": 200,
     "ok": true,
-    "time": 1823
+    "time": 3613
   },
   {
     "url": "https://iranology-e.ir/",
     "status": 200,
     "ok": true,
-    "time": 1869
+    "time": 1827
   },
   {
     "url": "https://my.365web.ir/",
     "status": 200,
     "ok": true,
-    "time": 3111
+    "time": 2597
   },
   {
     "url": "https://365web.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4403
+    "time": 3350
   },
   {
     "url": "https://gaspetrosafa.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4638
+    "time": 2507
   },
   {
     "url": "https://khorasan.ilisa.ir/wp-admin",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 9059
   },
   {
     "url": "https://radioogle.ir/blog/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 3252
+    "time": 2505
   },
   {
     "url": "https://blog.alirezak.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4872
+    "time": 5214
   },
   {
     "url": "https://biomechanic.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5253
+    "time": 3478
   },
   {
     "url": "https://derang.info/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 823
+    "time": 1076
   },
   {
     "url": "https://radioogle.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 9646
+    "time": 5459
   },
   {
     "url": "https://wikiazadegan.com/submit/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 3610
+    "time": 3424
   },
   {
     "url": "https://greenpetrol.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5086
+    "time": 3672
   },
   {
     "url": "https://khorasan.ilisa.ir",
     "status": 200,
     "ok": true,
-    "time": 1312
+    "time": 951
   },
   {
     "url": "https://inverterdelta.com",
     "status": 200,
     "ok": true,
-    "time": 1792
+    "time": 3230
   },
   {
     "url": "https://blog.alirezak.ir",
     "status": 200,
     "ok": true,
-    "time": 2529
+    "time": 2236
   },
   {
     "url": "https://derang.info/",
     "status": 200,
     "ok": true,
-    "time": 461
+    "time": 749
   },
   {
     "url": "https://radioogle.ir/",
     "status": 200,
     "ok": true,
-    "time": 718
+    "time": 531
   },
   {
     "url": "https://wikiazadegan.com/submit/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 3102
+    "time": 3000
   },
   {
     "url": "https://hiradmed.ir/",
     "status": 200,
     "ok": true,
-    "time": 902
+    "time": 917
   },
   {
     "url": "https://en.wikiazadegan.com/",
     "status": 200,
     "ok": true,
-    "time": 3817
+    "time": 2061
   },
   {
     "url": "https://wikiazadegan.com/",
     "status": 200,
     "ok": true,
-    "time": 202
+    "time": 159
   },
   {
     "url": "https://fa.wikiazadegan.com/",
     "status": 200,
     "ok": true,
-    "time": 2035
+    "time": 1780
   },
   {
     "url": "https://wiki.irdc.ir/",
     "status": 200,
     "ok": true,
-    "time": 1345
+    "time": 1104
   },
   {
     "url": "https://acrinst.com/",
     "status": 200,
     "ok": true,
-    "time": 5914
+    "time": 4224
   },
   {
     "url": "https://caspiansrf.ir/",
     "status": 200,
     "ok": true,
-    "time": 2173
+    "time": 1950
   },
   {
     "url": "https://catalystzeolite.ir/",
     "status": 200,
     "ok": true,
-    "time": 1297
+    "time": 6549
   },
   {
     "url": "https://ewalkfree.com/",
     "status": 200,
     "ok": true,
-    "time": 890
+    "time": 566
   },
   {
     "url": "https://medimage.ir/",
     "status": 200,
     "ok": true,
-    "time": 4051
+    "time": 9665
   },
   {
     "url": "https://lms.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1166
+    "time": 809
   },
   {
     "url": "https://ibulletin.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1195
+    "time": 1014
   },
   {
     "url": "https://ebtekarkarafarin.ir/",
     "status": 200,
     "ok": true,
-    "time": 1281
+    "time": 904
   },
   {
     "url": "https://acrinst.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 7430
+    "time": 6470
   },
   {
     "url": "https://caspiansrf.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5041
+    "time": 4168
   },
   {
     "url": "https://catalystzeolite.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 3944
+    "time": 10464
   },
   {
     "url": "https://lms.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 11230
+    "time": 8041
   },
   {
     "url": "https://ebtekarkarafarin.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4266
+    "time": 4934
   },
   {
     "url": "https://ehsan.daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5823
+    "time": 4418
   },
   {
     "url": "https://azarbaijan.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4806
+    "time": 6829
   },
   {
     "url": "https://qom.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4568
+    "time": 6056
   },
   {
     "url": "https://mazandaran.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5922
+    "time": 7079
   },
   {
     "url": "https://kerman.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 7476
+    "time": 7438
   },
   {
     "url": "https://tavanbp.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 3901
+    "time": 5589
   },
   {
     "url": "https://tavanbp.com/en/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 3049
+    "time": 3565
   },
   {
     "url": "https://daneshschools.com/highschool/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 7867
+    "time": 6121
   },
   {
     "url": "https://navidesalehin.org/d2/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4309
+    "time": 6877
   },
   {
     "url": "https://saltmanimaging.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5561
+    "time": 6462
   },
   {
     "url": "https://asr.daneshschools.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 5665
+    "time": 5640
   },
   {
     "url": "https://namipardaz.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 10988
+    "time": 5033
   },
   {
     "url": "https://caspianchemistry.com/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 7865
+    "time": 7661
   },
   {
     "url": "https://congress.ilisa.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 9580
+    "time": 5864
   },
   {
     "url": "https://qom.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 888
+    "time": 806
   },
   {
     "url": "https://ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1177
+    "time": 808
   },
   {
     "url": "https://kerman.ilisa.ir/",
     "status": 200,
     "ok": true,
-    "time": 1173
+    "time": 808
   },
   {
     "url": "https://mbehboudi.org/",
     "status": 200,
     "ok": true,
-    "time": 1316
+    "time": 1026
   },
   {
     "url": "https://biomechanic.ir/",
     "status": 200,
     "ok": true,
-    "time": 2139
+    "time": 2240
   },
   {
     "url": "https://tavanbp.com/en",
     "status": 200,
     "ok": true,
-    "time": 1760
+    "time": 1778
   },
   {
     "url": "https://saltmanimaging.ir/",
     "status": 200,
     "ok": true,
-    "time": 2323
+    "time": 1882
   },
   {
     "url": "https://saamcollection.com/",
     "status": 403,
     "ok": false,
-    "time": 1191
+    "time": 811
   },
   {
     "url": "https://asr.daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 2317
+    "time": 1805
   },
   {
     "url": "https://atfmag.info/",
     "status": 200,
     "ok": true,
-    "time": 2782
+    "time": 920
   },
   {
     "url": "https://moshaver.daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 1276
+    "time": 884
   },
   {
     "url": "https://navidesalehin.org/m",
     "status": 200,
     "ok": true,
-    "time": 1933
+    "time": 1647
   },
   {
     "url": "https://namipardaz.com/",
     "status": 200,
     "ok": true,
-    "time": 1810
+    "time": 1428
   },
   {
     "url": "https://navidesalehin.org/",
     "status": 200,
     "ok": true,
-    "time": 287
+    "time": 247
   },
   {
     "url": "https://hiradtec.com/",
     "status": 200,
     "ok": true,
-    "time": 1718
+    "time": 1242
   },
   {
     "url": "https://registration.daneshschools.com/",
     "status": 200,
     "ok": true,
-    "time": 1281
+    "time": 571
   },
   {
     "url": "https://golfoam.com/",
     "status": 200,
     "ok": true,
-    "time": 2099
+    "time": 1849
   }
 ]
