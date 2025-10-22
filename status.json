@@ -1,6 +1,20 @@
 [
-  { "url": "https://365web.ir", "status": 200, "ok": true, "time": 123 },
-  { "url": "https://365web.ir/wp-admin", "status": 404, "ok": false, "time": 240 },
-  { "url": "https://hiradmed.ir", "status": 404, "ok": false, "time": 240 },
+  {
+    "url": "https://365web.ir/wp-admin",
+    "status": 200,
+    "ok": true,
+    "time": 4319
+  },
+  {
+    "url": "https://365web.ir",
+    "status": 200,
+    "ok": true,
+    "time": 470
+  },
+  {
+    "url": "https://hiradmed.ir",
+    "status": 200,
+    "ok": true,
+    "time": 1531
+  }
 ]
-
