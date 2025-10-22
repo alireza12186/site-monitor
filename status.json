@@ -3,18 +3,16 @@
     "url": "https://365web.ir/wp-admin",
     "status": 200,
     "ok": true,
-    "time": 4319
+    "time": 3703
   },
   {
-    "url": "https://365web.ir",
-    "status": 200,
-    "ok": true,
-    "time": 470
+    "url": "https://365wehhhhhhhhhhhhhhhb.ir",
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
-    "url": "https://hiradmed.ir",
-    "status": 200,
-    "ok": true,
-    "time": 1531
+    "url": "https://hirdgdsgdfgdfadmed.ir",
+    "status": "timeout/ssl",
+    "ok": false
   }
 ]
