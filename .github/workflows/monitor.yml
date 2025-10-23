@@ -1,7 +1,7 @@
 name: Monitor
 on:
   schedule:
-    - cron: "*/5 * * * *"  # هر ۵ دقیقه اجرا می‌شود
+    - cron: "*/۱5 * * * *"  # هر ۵ دقیقه اجرا می‌شود
   workflow_dispatch:
 
 jobs:
