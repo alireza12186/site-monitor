@@ -6,9 +6,8 @@
   },
   {
     "url": "https://niafam.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 17076
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://icnl.nlai.ir",
@@ -59,7 +58,7 @@
     "url": "https://dl.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 16886
+    "time": 22784
   },
   {
     "url": "https://lms.nlai.ir",
@@ -80,7 +79,7 @@
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 1912
+    "time": 1881
   },
   {
     "url": "https://researchfestival.nlai.ir",
