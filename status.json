@@ -6,8 +6,9 @@
   },
   {
     "url": "https://niafam.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 21722
   },
   {
     "url": "https://icnl.nlai.ir",
@@ -18,41 +19,42 @@
     "url": "https://portals.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 10615
+    "time": 27409
   },
   {
     "url": "https://libs.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 12022
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://docs.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 20055
+    "time": 7089
   },
   {
     "url": "https://scripts.nlai.ir",
     "status": 500,
     "ok": false,
-    "time": 8066
+    "time": 16288
   },
   {
     "url": "https://mags.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 20362
   },
   {
     "url": "https://opac.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 12149
   },
   {
     "url": "https://sana.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 24276
+    "time": 12397
   },
   {
     "url": "https://iranjournals.nlai.ir",
@@ -63,48 +65,47 @@
     "url": "https://dl.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 19576
+    "time": 12344
   },
   {
     "url": "https://lms.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 1502
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://ari.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1836
+    "time": 14292
   },
   {
     "url": "https://shafaf.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1075
+    "time": 12167
   },
   {
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 2430
+    "time": 16179
   },
   {
     "url": "https://researchfestival.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1282
+    "time": 20106
   },
   {
     "url": "https://researchfestival14.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 990
+    "time": 12368
   },
   {
     "url": "https://researchfestival15.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1188
+    "time": 10750
   }
 ]
