@@ -1,8 +1,9 @@
 [
   {
     "url": "https://nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 6031
   },
   {
     "url": "https://niafam.nlai.ir",
@@ -16,8 +17,9 @@
   },
   {
     "url": "https://portals.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 21406
   },
   {
     "url": "https://libs.nlai.ir",
@@ -31,15 +33,14 @@
   },
   {
     "url": "https://scripts.nlai.ir",
-    "status": 500,
-    "ok": false,
-    "time": 2191
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://mags.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 9880
+    "time": 15497
   },
   {
     "url": "https://opac.nlai.ir",
@@ -48,9 +49,8 @@
   },
   {
     "url": "https://sana.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 14130
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://iranjournals.nlai.ir",
@@ -64,27 +64,24 @@
   },
   {
     "url": "https://lms.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 22792
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://ari.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 13122
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://shafaf.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 8981
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 1870
+    "time": 2831
   },
   {
     "url": "https://researchfestival.nlai.ir",
@@ -93,8 +90,9 @@
   },
   {
     "url": "https://researchfestival14.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 4724
   },
   {
     "url": "https://researchfestival15.nlai.ir",
