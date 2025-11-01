@@ -21,8 +21,9 @@
   },
   {
     "url": "https://libs.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 12035
   },
   {
     "url": "https://docs.nlai.ir",
@@ -61,8 +62,9 @@
   },
   {
     "url": "https://lms.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 21024
   },
   {
     "url": "https://ari.nlai.ir",
@@ -78,7 +80,7 @@
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 1801
+    "time": 9008
   },
   {
     "url": "https://researchfestival.nlai.ir",
