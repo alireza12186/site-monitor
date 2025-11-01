@@ -3,7 +3,7 @@
     "url": "https://nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1457
+    "time": 1433
   },
   {
     "url": "https://niafam.nlai.ir",
@@ -19,96 +19,96 @@
     "url": "https://portals.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 4086
+    "time": 1290
   },
   {
     "url": "https://libs.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 6920
+    "time": 3949
   },
   {
     "url": "https://docs.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 5846
+    "time": 3938
   },
   {
     "url": "https://scripts.nlai.ir",
     "status": 500,
     "ok": false,
-    "time": 915
+    "time": 762
   },
   {
     "url": "https://mags.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 5011
+    "time": 4015
   },
   {
     "url": "https://opac.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 910
+    "time": 1019
   },
   {
     "url": "https://sana.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1029
+    "time": 1456
   },
   {
     "url": "https://iranjournals.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1264
+    "time": 1497
   },
   {
     "url": "https://dl.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 2351
+    "time": 5927
   },
   {
     "url": "https://lms.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1625
+    "time": 1386
   },
   {
     "url": "https://ari.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 1982
+    "time": 690
   },
   {
     "url": "https://shafaf.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 939
+    "time": 4578
   },
   {
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 1778
+    "time": 1779
   },
   {
     "url": "https://researchfestival.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 954
+    "time": 1102
   },
   {
     "url": "https://researchfestival14.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 966
+    "time": 977
   },
   {
     "url": "https://researchfestival15.nlai.ir",
     "status": 200,
     "ok": true,
-    "time": 972
+    "time": 855
   }
 ]
