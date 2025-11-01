@@ -71,21 +71,19 @@
   },
   {
     "url": "https://shafaf.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 6889
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 9034
+    "time": 14695
   },
   {
     "url": "https://researchfestival.nlai.ir",
-    "status": 200,
-    "ok": true,
-    "time": 12723
+    "status": "timeout/ssl",
+    "ok": false
   },
   {
     "url": "https://researchfestival14.nlai.ir",
