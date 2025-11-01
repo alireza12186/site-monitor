@@ -78,17 +78,19 @@
     "url": "https://hamiankhati.ir",
     "status": 200,
     "ok": true,
-    "time": 4819
+    "time": 5981
   },
   {
     "url": "https://researchfestival.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 8450
   },
   {
     "url": "https://researchfestival14.nlai.ir",
-    "status": "timeout/ssl",
-    "ok": false
+    "status": 200,
+    "ok": true,
+    "time": 5262
   },
   {
     "url": "https://researchfestival15.nlai.ir",
