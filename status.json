@@ -76,9 +76,9 @@
   },
   {
     "url": "https://hamiankhati.ir",
-    "status": 200,
-    "ok": true,
-    "time": 14695
+    "status": 504,
+    "ok": false,
+    "time": 138128
   },
   {
     "url": "https://researchfestival.nlai.ir",
